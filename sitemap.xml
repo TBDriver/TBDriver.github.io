@@ -119,6 +119,24 @@
   </url>
   
   <url>
+    <loc>http://tbdriver.github.io/album/</loc>
+    
+    <lastmod>2021-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://tbdriver.github.io/friend/</loc>
+    
+    <lastmod>2021-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://tbdriver.github.io/media/</loc>
     
     <lastmod>2021-04-06</lastmod>
@@ -137,7 +155,7 @@
   </url>
   
   <url>
-    <loc>http://tbdriver.github.io/friend/</loc>
+    <loc>http://tbdriver.github.io/music/</loc>
     
     <lastmod>2021-04-06</lastmod>
     
@@ -147,24 +165,6 @@
   
   <url>
     <loc>http://tbdriver.github.io/self-talking/</loc>
-    
-    <lastmod>2021-04-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://tbdriver.github.io/album/</loc>
-    
-    <lastmod>2021-04-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://tbdriver.github.io/music/</loc>
     
     <lastmod>2021-04-06</lastmod>
     
@@ -210,7 +210,7 @@
   </url>
   
   <url>
-    <loc>http://tbdriver.github.io/tags/%E7%BC%96%E8%BE%91%E5%99%A8/</loc>
+    <loc>http://tbdriver.github.io/tags/%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2022-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -224,7 +224,7 @@
   </url>
   
   <url>
-    <loc>http://tbdriver.github.io/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <loc>http://tbdriver.github.io/tags/%E7%BC%96%E8%BE%91%E5%99%A8/</loc>
     <lastmod>2022-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -232,13 +232,6 @@
   
   <url>
     <loc>http://tbdriver.github.io/tags/%E8%93%9D%E5%B1%8F/</loc>
-    <lastmod>2022-10-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://tbdriver.github.io/tags/%E7%BD%91%E7%AB%99/</loc>
     <lastmod>2022-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -253,6 +246,13 @@
   
   <url>
     <loc>http://tbdriver.github.io/tags/Hexo/</loc>
+    <lastmod>2022-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://tbdriver.github.io/tags/%E7%BD%91%E7%AB%99/</loc>
     <lastmod>2022-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
