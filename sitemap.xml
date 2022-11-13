@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://tbdriver.github.io/2022/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%B2%E5%BC%80%E6%94%BE/</loc>
+    
+    <lastmod>2022-11-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://tbdriver.github.io/2022/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E7%94%B5%E8%84%91%E4%BD%BF%E7%94%A8AI%E5%AD%A6/</loc>
     
     <lastmod>2022-11-13</lastmod>
@@ -128,15 +137,6 @@
   </url>
   
   <url>
-    <loc>http://tbdriver.github.io/friend/</loc>
-    
-    <lastmod>2021-04-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://tbdriver.github.io/album/</loc>
     
     <lastmod>2021-04-06</lastmod>
@@ -146,7 +146,25 @@
   </url>
   
   <url>
+    <loc>http://tbdriver.github.io/friend/</loc>
+    
+    <lastmod>2021-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://tbdriver.github.io/media/</loc>
+    
+    <lastmod>2021-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://tbdriver.github.io/message/</loc>
     
     <lastmod>2021-04-06</lastmod>
     
@@ -172,15 +190,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://tbdriver.github.io/message/</loc>
-    
-    <lastmod>2021-04-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://tbdriver.github.io/</loc>
@@ -192,6 +201,20 @@
   
   <url>
     <loc>http://tbdriver.github.io/tags/Markdown/</loc>
+    <lastmod>2022-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://tbdriver.github.io/tags/%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/</loc>
+    <lastmod>2022-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://tbdriver.github.io/tags/VSCode/</loc>
     <lastmod>2022-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -219,28 +242,14 @@
   </url>
   
   <url>
-    <loc>http://tbdriver.github.io/tags/%E8%93%9D%E5%B1%8F/</loc>
-    <lastmod>2022-11-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://tbdriver.github.io/tags/%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/</loc>
-    <lastmod>2022-11-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://tbdriver.github.io/tags/VSCode/</loc>
-    <lastmod>2022-11-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://tbdriver.github.io/tags/%E7%BC%96%E8%BE%91%E5%99%A8/</loc>
+    <lastmod>2022-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://tbdriver.github.io/tags/%E8%93%9D%E5%B1%8F/</loc>
     <lastmod>2022-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -284,6 +293,13 @@
   </url>
   
   <url>
+    <loc>http://tbdriver.github.io/categories/%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2022-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://tbdriver.github.io/categories/%E9%97%B0%E5%9C%9F%E7%9A%840%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2022-11-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -299,13 +315,6 @@
   
   <url>
     <loc>http://tbdriver.github.io/categories/Windows/</loc>
-    <lastmod>2022-11-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://tbdriver.github.io/categories/%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2022-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
