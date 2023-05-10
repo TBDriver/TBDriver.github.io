@@ -236,13 +236,6 @@
 
   
   <url>
-    <loc>http://tbdriver.github.io/tags/Markdown/</loc>
-    <lastmod>2023-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://tbdriver.github.io/tags/Minecraft/</loc>
     <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -258,6 +251,34 @@
   
   <url>
     <loc>http://tbdriver.github.io/tags/HMCL/</loc>
+    <lastmod>2023-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://tbdriver.github.io/tags/Markdown/</loc>
+    <lastmod>2023-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://tbdriver.github.io/tags/C/</loc>
+    <lastmod>2023-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://tbdriver.github.io/tags/C/</loc>
+    <lastmod>2023-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://tbdriver.github.io/tags/Python/</loc>
     <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -292,13 +313,6 @@
   </url>
   
   <url>
-    <loc>http://tbdriver.github.io/tags/%E6%8C%87%E4%BB%A4/</loc>
-    <lastmod>2023-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://tbdriver.github.io/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/</loc>
     <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -313,21 +327,7 @@
   </url>
   
   <url>
-    <loc>http://tbdriver.github.io/tags/C/</loc>
-    <lastmod>2023-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://tbdriver.github.io/tags/C/</loc>
-    <lastmod>2023-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://tbdriver.github.io/tags/Python/</loc>
+    <loc>http://tbdriver.github.io/tags/%E6%8C%87%E4%BB%A4/</loc>
     <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -335,6 +335,13 @@
   
   <url>
     <loc>http://tbdriver.github.io/tags/AI%E5%AD%A6/</loc>
+    <lastmod>2023-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://tbdriver.github.io/tags/%E6%BA%90%E7%A0%81/</loc>
     <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -354,14 +361,14 @@
     <priority>0.2</priority>
   </url>
   
+
+  
   <url>
-    <loc>http://tbdriver.github.io/tags/%E6%BA%90%E7%A0%81/</loc>
+    <loc>http://tbdriver.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
-  
-
   
   <url>
     <loc>http://tbdriver.github.io/categories/%E8%B5%84%E6%96%99%E6%95%B4%E5%90%88/</loc>
@@ -378,7 +385,7 @@
   </url>
   
   <url>
-    <loc>http://tbdriver.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://tbdriver.github.io/categories/%E6%9D%82%E7%A0%81/</loc>
     <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -393,13 +400,6 @@
   
   <url>
     <loc>http://tbdriver.github.io/categories/Windows/</loc>
-    <lastmod>2023-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://tbdriver.github.io/categories/%E6%9D%82%E7%A0%81/</loc>
     <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
