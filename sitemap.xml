@@ -236,6 +236,13 @@
 
   
   <url>
+    <loc>http://tbdriver.github.io/tags/Markdown/</loc>
+    <lastmod>2023-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://tbdriver.github.io/tags/Minecraft/</loc>
     <lastmod>2023-06-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -251,13 +258,6 @@
   
   <url>
     <loc>http://tbdriver.github.io/tags/HMCL/</loc>
-    <lastmod>2023-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://tbdriver.github.io/tags/Markdown/</loc>
     <lastmod>2023-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -306,14 +306,14 @@
   </url>
   
   <url>
-    <loc>http://tbdriver.github.io/tags/vector/</loc>
+    <loc>http://tbdriver.github.io/tags/%E8%93%9D%E5%B1%8F/</loc>
     <lastmod>2023-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://tbdriver.github.io/tags/%E8%93%9D%E5%B1%8F/</loc>
+    <loc>http://tbdriver.github.io/tags/vector/</loc>
     <lastmod>2023-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -371,14 +371,14 @@
 
   
   <url>
-    <loc>http://tbdriver.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://tbdriver.github.io/categories/%E8%B5%84%E6%96%99%E6%95%B4%E5%90%88/</loc>
     <lastmod>2023-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://tbdriver.github.io/categories/%E8%B5%84%E6%96%99%E6%95%B4%E5%90%88/</loc>
+    <loc>http://tbdriver.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -406,14 +406,14 @@
   </url>
   
   <url>
-    <loc>http://tbdriver.github.io/categories/C/</loc>
+    <loc>http://tbdriver.github.io/categories/Windows/</loc>
     <lastmod>2023-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://tbdriver.github.io/categories/Windows/</loc>
+    <loc>http://tbdriver.github.io/categories/C/</loc>
     <lastmod>2023-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
